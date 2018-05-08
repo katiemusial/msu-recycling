@@ -1,8 +1,14 @@
-<h1 class="text-center">Recycling Request Log In</h1>
-
 <div class="container">
-    <form ng-submit="formSubmit()" class="form text-center">
-        MSU Net ID: <input type="text" class="form=control" ng-model="username" placeholder="MSU Net ID" required"">
-    </form>
-    <button type="submit" class="btn btn-success">Login</button>
+    <h1 class="text-center">Recycling Request Log In</h1>
+
+    <div align="center">
+        <form ng-submit="formSubmit()">
+            <div class="form-group">
+                MSU Net Id: <input type="text" class="form-control" ng-model="netid" placeholder="MSU Net Id" required style="width: 300px">
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-success">Log In</button>
+            </div>
+        </form>
+    </div>
 </div>
