@@ -1,0 +1,82 @@
+<h1 class="text-center">Recycling Guide</h1>
+<!---<div class="container">
+    <div class="container">
+        <div class="row guide-commodities">
+            <div class="guide-commodities-icon col-md-2 col-sm-2 col-xs-4 text-center" ng-class="{selected: selectedCommodity=='plastic'}" ng-click="selectCommodity('plastic')"> <img src="images/plastic.b2351027.png" alt=""> </div>
+            <div class="guide-commodities-icon col-md-2 col-sm-2 col-xs-4 text-center" ng-class="{selected: selectedCommodity=='paper'}" ng-click="selectCommodity('paper')"> <img src="images/paper.e8ddffee.png" alt=""> </div>
+            <div class="guide-commodities-icon col-md-2 col-sm-2 col-xs-4 text-center" ng-class="{selected: selectedCommodity=='cardboard'}" ng-click="selectCommodity('cardboard')"> <img src="images/cardboard.e672c4d5.png" alt=""> </div>
+            <div class="guide-commodities-icon col-md-2 col-sm-2 col-xs-4 text-center" ng-class="{selected: selectedCommodity=='metal'}" ng-click="selectCommodity('metal')"> <img src="images/metal.a2aa08a5.png" alt=""> </div>
+            <div class="guide-commodities-icon col-md-2 col-sm-2 col-xs-4 text-center" ng-class="{selected: selectedCommodity=='glass'}" ng-click="selectCommodity('glass')"> <img src="images/glass.f80fdbab.png" alt=""> </div>
+        </div>
+    </div>
+    <div class="jumbotron" ng-show="selectedCommodity">
+        <div class="container">
+            <div class="row" ng-if="selectedCommodity == 'plastic'">
+                <div class="col-md-12">
+                    <h3>Interior Recycling</h3>
+                    <p>All plastic to be recycled inside buildings on campus can placed inside the labeled <strong>Plastic/Metal</strong> bin.</p>
+                    <h3>Drop-off Center</h3>
+                    <p>When recycling plastic at the Drop-off Center simply place all </p>
+                </div>
+            </div>
+            <div class="row" ng-if="selectedCommodity == 'paper'">
+                <div class="col-md-12">
+                    <h3>Interior Recycling</h3>
+                    <p>There are only two different bins that you have to take note of when recycling paper inside buildings on campus. <strong>Office Paper</strong> bins are for the white paper commonly used in offices, while <strong>Mixed Paper</strong> bins are for colored paper and thin boxboards like a cereal box.</p>
+                    <h3>Drop-off Center</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet ullam nisi quos nobis molestias dicta, et, totam libero, sit temporibus eos dolore maiores nulla error.</p>
+                </div>
+            </div>
+            <div class="row" ng-if="selectedCommodity == 'cardboard'">
+                <div class="col-md-12">
+                    <h3>Interior Recycling</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente consectetur velit, sint, minus eligendi corporis nesciunt enim aliquid, animi fuga magni. Nulla tempora quibusdam aliquid labore quisquam odio dolore dolor!</p>
+                    <h3>Drop-off Center</h3> </div>
+            </div>
+            <div class="row" ng-if="selectedCommodity == 'metal'">
+                <div class="col-md-12">
+                    <h3>Interior Recycling</h3>
+                    <h3>Drop-off Center</h3> </div>
+            </div>
+            <div class="row" ng-if="selectedCommodity == 'glass'">
+                <div class="col-md-12">
+                    <h3>Interior Recycling</h3>
+                    <h3>Drop-off Center</h3> </div>
+            </div>
+            <div class="row" ng-if="selectedCommodity == 'surplus'">
+                <div class="col-md-12">
+                    <h3>Interior Recycling</h3>
+                    <h3>Drop-off Center</h3> </div>
+            </div>
+        </div>
+    </div>
+</div>-->
+<div class="container" ng-init="distance=.2">
+    <h1 class="sr-only">Search Results</h1>
+    <div class="row guide-item" ng-repeat="building in buildings | orderBy: sorter | filter:commodityFilter | limitTo:4 | filter:exteriorFilter | filter:helpers.lessThan('distanceFromOrigin', .2)">
+        <div class="col-md-9 col-sm-9 col-xs-12">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3>{{ building.Building_Name }}</h3>
+                    <h5>{{ building.Building_Number }}</h5> </div>
+            </div>
+            <div class="row">
+                <div class="col-md-5">
+                    <ul class="list-unstyled"> <i class="fa fa-map-marker pull-left icon-red" style="font-size: 250%"></i>
+                        <li>{{ building.Building_Street_Address }}</li>
+                        <li><em><a href="http://google.com/maps/search/{{ building.GPS_Coords }}">{{ building.GPS_Coords }}</a></em></li>
+                    </ul>
+                </div>
+                <div class="col-md-7"> <strong class="pull-left">Accepted Materials:</strong>
+                    <ul class="list-inline">
+                        <li ng-repeat="commodity in building.CommodityCollected | orderBy: commodity">{{ commodity }}</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <h4 ng-if="building.distanceFromOrigin">{{ building.distanceFromOrigin | number:2 }} miles away</h4> </div>
+            </div>
+        </div>
+    </div>
+</div>

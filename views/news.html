@@ -1,0 +1,5 @@
+<h1 class="text-center">News</h1>
+<div class="container" ng-init="limit=2">
+    <p ng-bind-html="news | limitTo: limit"></p>
+    <button ng-click="limit=limit+2">Show More</button>
+</div>

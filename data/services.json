@@ -1,0 +1,54 @@
+[{
+    "id":"1",
+    "status":"active",
+    "title": "Organic Waste Diversion/Composting",
+"description": "Organic waste collection for composting is available on a limited basis to departments. Requests are evaluated based on the type of organic waste produced, volumes and location. This service is not available in residence halls at this time. For more information about adding composting to your office area, contact: recycle@msu.edu"
+},
+{
+    "id":"2",
+    "status":"active",
+    "title": "Paper Shredding",
+"description": "Confidential paper shredding services are available to departments. Services include regularly-occurring scheduled collections or one-time special cleanouts. Ongoing, routed collection containers are 21”x11”x32” (28 gallons) and are scheduled for automatic weekly, biweekly, monthly, or bimonthly service at a rate of $10 per service. Containers for one-time special cleanouts are 43”x29”x38” (96 gallons) and may be used for a maximum of 60 days at a rate of $25 per service. Containers not picked up at the end of 60 days will automatically be billed for an additional 60 days. The Surplus Store provides a complimentary paper shredding collection container at their entrance for use by students, faculty, staff and the public. To order paper shredding service, please submit a <a href='http://fm.ssrc.msu.edu'>service request</a>."
+},
+{
+    "id":"3",
+    "status":"active",
+    "title": "Electronic Media Destruction",
+"description": "Electronic media destruction services are available to departments. Electronic media includes hard disks, magnetic tapes, videotapes, audiotapes, compact discs and removable storage disks. Media is shredded. Collection containers are 43”x29”x38” (176 gallon capacity) and may be used for a maximum of 60 days at a rate of $25 per service. Containers not picked up at the end of 60 days will automatically be billed for an additional 60 days.  To order electronic media destruction service, please submit a <a href='http://fm.ssrc.msu.edu'>service request</a>."
+},
+{
+    "id":"4",
+    "status":"active",
+    "title": "Supplemental Waste Disposal",
+"description": "Large exterior collection containers (roll-offs) can be provided to departments and contractors for special waste collection due to large-scale cleanouts, remodeling or construction.  Customers are encouraged to contact Recycling prior to ordering to ensure materials cannot be reused or recycled at no cost. To order a roll-off, department representatives should submit a <a href='http://fm.ssrc.msu.edu'>service request</a> and contractors need to contact: recycle@msu.edu"
+},
+{
+    "id":"5",
+    "status":"active",
+    "title": "Event Recycling",
+"description": "Many campus events are coordinated through the Events office at <a href='http://ipf.msu.edu/services/events/index.html'>Infrastructure Planning and Facilities</a> where recycling is included in the planning process. For department events that are planned outside of this program we offer zero waste event planning services. For more information on how to host a zero waste event contact: recycle@msu.edu"
+},
+{
+    "id":"6",
+    "status":"active",
+    "title": "Office Clean Outs",
+"description": "Green Sweep office clean out service is available to departments. We can help plan large office cleanouts to help make them zero waste. As part of the program we deliver collection containers for a variety of materials, provide promotional/education materials, offer free paper shredding and provide staff to remove surplus materials. For more information contact: recycle@msu.edu"
+},
+{
+    "id":"7",
+    "status":"active",
+    "title": "Waste Assessment",
+"description": "We like digging through trash and are happy to provide waste assessment services to departments. Whether it’s a single office, multiple department offices or a whole building we will sort through your trash and provide a comprehensive report about what’s in your waste stream and how it can be reduced. To schedule a waste assessment contact: recycle@msu.edu"
+},
+{
+    "id":"8",
+    "status":"active",
+    "title": "Procurement Advice",
+"description": "Looking at moving from your coffee pot to a Keurig? Wondering about how different types of consumables impact recyclability? Do you find yourself throwing away a lot of the same types of items and wonder if there are other options available? We can help you review what you procure and provide recommendations on how to minimize impact on the waste stream. From more information contact: recycle@msu.edu"
+},
+{
+    "id":"9",
+    "status":"active",
+    "title": "Office Set-up Review",
+"description": "Does recycling seem like too much of a burden or too time consuming? We can review your office space to make recommendations on how to optimize the recycling process utilizing a variety of different containers and systems. For more information contact: recycle@msu.edu"
+}]

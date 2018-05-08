@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MSU Recycling</title>
+    <link rel="stylesheet" href="styles/bootstrap.min.css">
+    <link rel="stylesheet" href="styles/textAngular.css">
+</head>
+<body ng-app="recyclingMain">
+    <div class="container">
+        <div ng-include="'views/components/header.html'"></div>
+    </div>
+
+    <div ng-view=""></div>
+
+    <script src="scripts/vendor.js"></script>
+    <script src="scripts/main.js"></script>
+    <script src="scripts/json2html.js" ></script>
+</body>
+</html>

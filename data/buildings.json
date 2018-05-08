@@ -1,0 +1,1298 @@
+[
+    {
+        "id": "53",
+        "name": "88 SERVICE RD - OLD PURCHASING"
+    },
+    {
+        "id": "77",
+        "name": "ABRAMS PLANETARIUM"
+    },
+    {
+        "id": "393",
+        "name": "ADAMS FIELD"
+    },
+    {
+        "id": "230",
+        "name": "AG EXPO GROUNDS"
+    },
+    {
+        "id": "18",
+        "name": "AGRICULTURE HALL"
+    },
+    {
+        "id": "204",
+        "name": "AKERS GOLF COMPLEX"
+    },
+    {
+        "id": "373",
+        "name": "AKERS GOLF COMPLEX - CART BARN"
+    },
+    {
+        "id": "372",
+        "name": "AKERS GOLF COMPLEX - WEST"
+    },
+    {
+        "id": "144",
+        "name": "AKERS HALL"
+    },
+    {
+        "id": "245",
+        "name": "AKERS/HUBBARD (ER)"
+    },
+    {
+        "id": "24",
+        "name": "ALUMNI MEMORIAL CHAPEL"
+    },
+    {
+        "id": "97",
+        "name": "AMTRAK STATION"
+    },
+    {
+        "id": "64",
+        "name": "ANGELL UNIVERSITY SERVICES BUILDING"
+    },
+    {
+        "id": "63",
+        "name": "ANTHONY HALL"
+    },
+    {
+        "id": "135",
+        "name": "ARMSTRONG HALL"
+    },
+    {
+        "id": "260",
+        "name": "ASMSU STUDENT TENNIS LOT (ER)"
+    },
+    {
+        "id": "25",
+        "name": "AUDITORIUM"
+    },
+    {
+        "id": "215",
+        "name": "AUDITORIUM (ER)"
+    },
+    {
+        "id": "384",
+        "name": "AUDITORIUM FIELD"
+    },
+    {
+        "id": "341",
+        "name": "AUDITORIUM ROCK (ER)"
+    },
+    {
+        "id": "134",
+        "name": "BAILEY HALL"
+    },
+    {
+        "id": "92",
+        "name": "BAKER HALL"
+    },
+    {
+        "id": "231",
+        "name": "BARROS RESEARCH INSTITUTE"
+    },
+    {
+        "id": "386",
+        "name": "BEAUMONT TOWER"
+    },
+    {
+        "id": "166",
+        "name": "BEEF CATTLE RESEARCH - MAIN BLDG"
+    },
+    {
+        "id": "1",
+        "name": "BERKEY HALL"
+    },
+    {
+        "id": "212",
+        "name": "BERKEY HALL (ER)"
+    },
+    {
+        "id": "44",
+        "name": "BESSEY HALL"
+    },
+    {
+        "id": "237",
+        "name": "BESSEY HALL (ER)"
+    },
+    {
+        "id": "387",
+        "name": "BESSEY HALL RIVER (ER)"
+    },
+    {
+        "id": "79",
+        "name": "BIOCHEMISTRY"
+    },
+    {
+        "id": "73",
+        "name": "BIOMEDICAL PHYSICAL SCIENCES"
+    },
+    {
+        "id": "159",
+        "name": "BOTANY FIELD LAB"
+    },
+    {
+        "id": "14",
+        "name": "BOTANY GREENHOUSE"
+    },
+    {
+        "id": "174",
+        "name": "BOX FARM - HOUSE"
+    },
+    {
+        "id": "307",
+        "name": "BRESLIN A (ER)"
+    },
+    {
+        "id": "308",
+        "name": "BRESLIN B (ER)"
+    },
+    {
+        "id": "309",
+        "name": "BRESLIN C (ER)"
+    },
+    {
+        "id": "310",
+        "name": "BRESLIN D (ER)"
+    },
+    {
+        "id": "41",
+        "name": "BRESLIN STUDENT EVENTS CENTER"
+    },
+    {
+        "id": "348",
+        "name": "BROAD ART MUSEUM"
+    },
+    {
+        "id": "224",
+        "name": "BRODY COMPLEX (ER)"
+    },
+    {
+        "id": "132",
+        "name": "BRODY HALL"
+    },
+    {
+        "id": "131",
+        "name": "BRYAN HALL"
+    },
+    {
+        "id": "45",
+        "name": "BUSINESS COLLEGE COMPLEX"
+    },
+    {
+        "id": "129",
+        "name": "BUTTERFIELD HALL"
+    },
+    {
+        "id": "124",
+        "name": "CAMPBELL HALL"
+    },
+    {
+        "id": "284",
+        "name": "CARPET RECYCLING - RHS"
+    },
+    {
+        "id": "139",
+        "name": "CASE HALL"
+    },
+    {
+        "id": "91",
+        "name": "CENTER INTEGRATIVE PLANT SYS - LAB"
+    },
+    {
+        "id": "271",
+        "name": "CENTER OF COMMUNITY AND ECON DEV"
+    },
+    {
+        "id": "104",
+        "name": "CENTRAL SCHOOL"
+    },
+    {
+        "id": "36",
+        "name": "CENTRAL SERVICES"
+    },
+    {
+        "id": "172",
+        "name": "CHEMICAL WASTE CONT STORAGE"
+    },
+    {
+        "id": "206",
+        "name": "CHEMICAL WASTE FACILITY"
+    },
+    {
+        "id": "170",
+        "name": "CHEMICAL WASTE NO. 1"
+    },
+    {
+        "id": "171",
+        "name": "CHEMICAL WASTE NO. 2"
+    },
+    {
+        "id": "75",
+        "name": "CHEMISTRY"
+    },
+    {
+        "id": "240",
+        "name": "CHILLED WATER/CLINICAL CTR LOT (ER)"
+    },
+    {
+        "id": "15",
+        "name": "CHITTENDEN HALL"
+    },
+    {
+        "id": "229",
+        "name": "CITY CENTER BUILDING"
+    },
+    {
+        "id": "200",
+        "name": "CLARA BELL SMITH CENTER"
+    },
+    {
+        "id": "100",
+        "name": "CLINICAL CENTER"
+    },
+    {
+        "id": "101",
+        "name": "CLINICAL CENTER - OFFICE/LAB WING"
+    },
+    {
+        "id": "102",
+        "name": "CLINICAL CENTER-ANIMAL QUARTER WING"
+    },
+    {
+        "id": "188",
+        "name": "COMMERCE CENTER, LANSING"
+    },
+    {
+        "id": "49",
+        "name": "COMMUNICATION ARTS"
+    },
+    {
+        "id": "220",
+        "name": "COMMUNICATION ARTS RAMP (ER)"
+    },
+    {
+        "id": "267",
+        "name": "COMMUNITY MUSIC SCHOOL"
+    },
+    {
+        "id": "26",
+        "name": "COMPUTER CENTER"
+    },
+    {
+        "id": "146",
+        "name": "CONRAD HALL"
+    },
+    {
+        "id": "379",
+        "name": "CONSTRUCTION - ANTHONY HALL"
+    },
+    {
+        "id": "360",
+        "name": "CONSTRUCTION - CHEMISTRY"
+    },
+    {
+        "id": "363",
+        "name": "CONSTRUCTION - COMPUTER CENTER"
+    },
+    {
+        "id": "316",
+        "name": "CONSTRUCTION - IM CIRCLE"
+    },
+    {
+        "id": "318",
+        "name": "CONSTRUCTION - WEST CIRCLE"
+    },
+    {
+        "id": "380",
+        "name": "CONSTRUCTION - WILSON HALL"
+    },
+    {
+        "id": "16",
+        "name": "COOK HALL"
+    },
+    {
+        "id": "7",
+        "name": "COWLES HOUSE"
+    },
+    {
+        "id": "155",
+        "name": "CROP SCIENCE - RESEARCH"
+    },
+    {
+        "id": "113",
+        "name": "CROP SCIENCE FIELD LABORATORY"
+    },
+    {
+        "id": "76",
+        "name": "CYCLOTRON"
+    },
+    {
+        "id": "164",
+        "name": "DAIRY RESEARCH COMPLEX"
+    },
+    {
+        "id": "115",
+        "name": "DCPAH - DIAG CNTR POP ANIM HEALTH"
+    },
+    {
+        "id": "116",
+        "name": "DCPAH - SMALL ANIMAL CREMETORY"
+    },
+    {
+        "id": "120",
+        "name": "DEMMER SHOOTING SPORTS EDUCATION"
+    },
+    {
+        "id": "33",
+        "name": "DEMONSTRATION HALL"
+    },
+    {
+        "id": "195",
+        "name": "DEWITT PEDIATRICS"
+    },
+    {
+        "id": "228",
+        "name": "DROP OFF CENTER"
+    },
+    {
+        "id": "42",
+        "name": "DUFFY DAUGHERTY FOOTBALL - S.A.A.C."
+    },
+    {
+        "id": "133",
+        "name": "EMMONS HALL"
+    },
+    {
+        "id": "303",
+        "name": "EMMONS HALL (ER)"
+    },
+    {
+        "id": "165",
+        "name": "ENDOCRINE RES - OFFICE"
+    },
+    {
+        "id": "103",
+        "name": "ENG RESEARCH COMPLEX"
+    },
+    {
+        "id": "46",
+        "name": "ENGINEERING BUILDING"
+    },
+    {
+        "id": "258",
+        "name": "ENGINEERING EAST LOT (ER)"
+    },
+    {
+        "id": "105",
+        "name": "ENGINEERING RESEARCH - JOLLY RD"
+    },
+    {
+        "id": "257",
+        "name": "ENGINEERING WEST LOT (ER)"
+    },
+    {
+        "id": "169",
+        "name": "ENTOMOLOGY FIELD AND RESEARCH -MAIN"
+    },
+    {
+        "id": "221",
+        "name": "ERICKSON BRIDGE (ER)"
+    },
+    {
+        "id": "67",
+        "name": "ERICKSON HALL"
+    },
+    {
+        "id": "11",
+        "name": "EUSTACE-COLE HALL"
+    },
+    {
+        "id": "55",
+        "name": "FARRALL AG ENGINEERING HALL"
+    },
+    {
+        "id": "145",
+        "name": "FEE HALL"
+    },
+    {
+        "id": "62",
+        "name": "FIRE STATION"
+    },
+    {
+        "id": "94",
+        "name": "FOOD SAFETY AND TOXICOLOGY"
+    },
+    {
+        "id": "89",
+        "name": "FOOD SCIENCE"
+    },
+    {
+        "id": "84",
+        "name": "FOOD STORES"
+    },
+    {
+        "id": "71",
+        "name": "GEAGLEY LABORATORY"
+    },
+    {
+        "id": "86",
+        "name": "GEOGRAPHY BUILDING"
+    },
+    {
+        "id": "22",
+        "name": "GILTNER HALL"
+    },
+    {
+        "id": "72",
+        "name": "GROUNDS HEADQUARTERS"
+    },
+    {
+        "id": "150",
+        "name": "GROUNDS MAINT NURSERY - HEADHOUSE"
+    },
+    {
+        "id": "177",
+        "name": "GROUNDS MAINT STORAGE NO 1"
+    },
+    {
+        "id": "173",
+        "name": "HANCOCK TURFGRASS FIELD LAB"
+    },
+    {
+        "id": "39",
+        "name": "HANNAH ADMINISTRATION"
+    },
+    {
+        "id": "219",
+        "name": "HANNAH ADMINISTRATION (ER)"
+    },
+    {
+        "id": "184",
+        "name": "HANNAH TECH & RSCH CNTR - EYDE"
+    },
+    {
+        "id": "183",
+        "name": "HANNAH TECH & RSCH CNTR-OFFICE CNTR"
+    },
+    {
+        "id": "118",
+        "name": "HENRY CENTER"
+    },
+    {
+        "id": "149",
+        "name": "HOLDEN HALL"
+    },
+    {
+        "id": "147",
+        "name": "HOLMES HALL"
+    },
+    {
+        "id": "205",
+        "name": "HORSE RES- TEACHING & RESEARCH BARN"
+    },
+    {
+        "id": "269",
+        "name": "HORSE RES- TEACHING & RESEARCH COMPLEX"
+    },
+    {
+        "id": "319",
+        "name": "HORTICULTURE RESEARCH - GREENHOUSE"
+    },
+    {
+        "id": "151",
+        "name": "HORTICULTURE RESEARCH HOUSE/OFFICE"
+    },
+    {
+        "id": "148",
+        "name": "HUBBARD HALL"
+    },
+    {
+        "id": "4",
+        "name": "HUMAN ECOLOGY"
+    },
+    {
+        "id": "213",
+        "name": "HUMAN ECOLOGY (ER)"
+    },
+    {
+        "id": "29",
+        "name": "IM CIRCLE"
+    },
+    {
+        "id": "85",
+        "name": "IM EAST"
+    },
+    {
+        "id": "222",
+        "name": "IM EAST (ER)"
+    },
+    {
+        "id": "69",
+        "name": "IM WEST"
+    },
+    {
+        "id": "250",
+        "name": "IM WEST (ER)"
+    },
+    {
+        "id": "199",
+        "name": "INCINERATOR RD. TRAILER BINS"
+    },
+    {
+        "id": "78",
+        "name": "INFRASTRUCTURE PLANNING & FACILITIES"
+    },
+    {
+        "id": "365",
+        "name": "INGHAM REGIONAL MEDICAL CENTER"
+    },
+    {
+        "id": "272",
+        "name": "INLAND LAKE RESEARCH - WATER QUALITY MANAGEMENT"
+    },
+    {
+        "id": "61",
+        "name": "INSECTORY (ENTOMOLOGY)"
+    },
+    {
+        "id": "80",
+        "name": "INTERNATIONAL CENTER"
+    },
+    {
+        "id": "223",
+        "name": "INTERNATIONAL CENTER (ER)"
+    },
+    {
+        "id": "252",
+        "name": "JENISON (ER) #1"
+    },
+    {
+        "id": "251",
+        "name": "JENISON (ER) #2"
+    },
+    {
+        "id": "32",
+        "name": "JENISON FIELDHOUSE"
+    },
+    {
+        "id": "263",
+        "name": "KALAMAZOO PARKING LOT (ER)"
+    },
+    {
+        "id": "268",
+        "name": "KALAMAZOO/HARRISON RD (ER)"
+    },
+    {
+        "id": "23",
+        "name": "KEDZIE HALL (NORTH AND SOUTH)"
+    },
+    {
+        "id": "378",
+        "name": "KELLOGG BIOLOGICAL STATION"
+    },
+    {
+        "id": "31",
+        "name": "KELLOGG CENTER"
+    },
+    {
+        "id": "302",
+        "name": "KELLOGG CENTER BUS STOP (ER)"
+    },
+    {
+        "id": "217",
+        "name": "KELLOGG CENTER ENTRANCE (ER)"
+    },
+    {
+        "id": "218",
+        "name": "KELLOGG CENTER RAMP #1 (ER)"
+    },
+    {
+        "id": "238",
+        "name": "KELLOGG CENTER RAMP #2 (ER)"
+    },
+    {
+        "id": "68",
+        "name": "KRESGE ART CENTER"
+    },
+    {
+        "id": "125",
+        "name": "LANDON HALL"
+    },
+    {
+        "id": "367",
+        "name": "LANDSCAPE SERVICES"
+    },
+    {
+        "id": "320",
+        "name": "LANDSCAPE SERVICES NURSERY BARN 1"
+    },
+    {
+        "id": "189",
+        "name": "LANSING MEDICAL OFFICE CENTER"
+    },
+    {
+        "id": "40",
+        "name": "LAUNDRY BUILDING"
+    },
+    {
+        "id": "185",
+        "name": "LEJON BUILDING - LANSING"
+    },
+    {
+        "id": "28",
+        "name": "LIBRARY"
+    },
+    {
+        "id": "216",
+        "name": "LIBRARY BRIDGE (ER)"
+    },
+    {
+        "id": "382",
+        "name": "LIBRARY PATIO (ER)"
+    },
+    {
+        "id": "93",
+        "name": "LIFE SCIENCE"
+    },
+    {
+        "id": "10",
+        "name": "LINTON HALL"
+    },
+    {
+        "id": "211",
+        "name": "LOT 62 - COMMUTER LOT"
+    },
+    {
+        "id": "210",
+        "name": "LOT 89 - COMMUTER LOT"
+    },
+    {
+        "id": "246",
+        "name": "LOT 89 - COMMUTER LOT (ER)"
+    },
+    {
+        "id": "208",
+        "name": "M.A.C."
+    },
+    {
+        "id": "70",
+        "name": "MANLY MILES BUILDING"
+    },
+    {
+        "id": "12",
+        "name": "MARSHALL-ADAMS HALL"
+    },
+    {
+        "id": "128",
+        "name": "MARY MAYO HALL"
+    },
+    {
+        "id": "123",
+        "name": "MASON AND ABBOT HALL"
+    },
+    {
+        "id": "364",
+        "name": "MATERIAL CONSOLIDATION"
+    },
+    {
+        "id": "264",
+        "name": "MBI BUILDING"
+    },
+    {
+        "id": "142",
+        "name": "MCDONEL HALL"
+    },
+    {
+        "id": "192",
+        "name": "MCLAREN GREATER LANSING"
+    },
+    {
+        "id": "187",
+        "name": "MEDICAL ARTS BUILDING"
+    },
+    {
+        "id": "59",
+        "name": "MICHIGAN STATE POLICE"
+    },
+    {
+        "id": "249",
+        "name": "MINK POULTRY TEACHING"
+    },
+    {
+        "id": "390",
+        "name": "MORRILL PLAZA"
+    },
+    {
+        "id": "291",
+        "name": "MSU BREAST CANCER OF LANSING"
+    },
+    {
+        "id": "48",
+        "name": "MSU COLLEGE OF LAW"
+    },
+    {
+        "id": "357",
+        "name": "MSU COMMUNITY MUSIC SCHOOL"
+    },
+    {
+        "id": "326",
+        "name": "MSU DIVERSION YARD"
+    },
+    {
+        "id": "181",
+        "name": "MSU FEDERAL CREDIT UNION"
+    },
+    {
+        "id": "121",
+        "name": "MSU FOUNDATION BUILDING"
+    },
+    {
+        "id": "119",
+        "name": "MSU SURPLUS STORE AND RECYCLING CTR"
+    },
+    {
+        "id": "279",
+        "name": "MSUFCU-CENTRAL PARK"
+    },
+    {
+        "id": "362",
+        "name": "MSUFCU-CHARLOTTE"
+    },
+    {
+        "id": "283",
+        "name": "MSUFCU-FARM LANE"
+    },
+    {
+        "id": "280",
+        "name": "MSUFCU-GRAND RIVER"
+    },
+    {
+        "id": "276",
+        "name": "MSUFCU-JOLLY"
+    },
+    {
+        "id": "349",
+        "name": "MSUFCU-MARSH"
+    },
+    {
+        "id": "392",
+        "name": "MSUFCU-MASON"
+    },
+    {
+        "id": "277",
+        "name": "MSUFCU-MIGALDI"
+    },
+    {
+        "id": "361",
+        "name": "MSUFCU-SPARROW"
+    },
+    {
+        "id": "282",
+        "name": "MSUFCU-UNION"
+    },
+    {
+        "id": "275",
+        "name": "MSUFCU-WASHINGTON"
+    },
+    {
+        "id": "278",
+        "name": "MSUFCU-WEST"
+    },
+    {
+        "id": "35",
+        "name": "MUNN ICE ARENA"
+    },
+    {
+        "id": "389",
+        "name": "MUNN INTRAMURAL FIELD"
+    },
+    {
+        "id": "9",
+        "name": "MUSEUM"
+    },
+    {
+        "id": "8",
+        "name": "MUSIC BUILDING"
+    },
+    {
+        "id": "17",
+        "name": "MUSIC PRACTICE"
+    },
+    {
+        "id": "391",
+        "name": "N/E FARM LANE & SHAW LANE"
+    },
+    {
+        "id": "90",
+        "name": "NATURAL RESOURCES"
+    },
+    {
+        "id": "19",
+        "name": "NATURAL SCIENCE"
+    },
+    {
+        "id": "60",
+        "name": "NISBET BUILDING"
+    },
+    {
+        "id": "153",
+        "name": "NORTHSTAR - OFFICE BUILDING"
+    },
+    {
+        "id": "99",
+        "name": "OBSERVATORY"
+    },
+    {
+        "id": "321",
+        "name": "OFF CAMPUS"
+    },
+    {
+        "id": "13",
+        "name": "OLD BOTANY"
+    },
+    {
+        "id": "327",
+        "name": "OLD COLLEGE FIELD"
+    },
+    {
+        "id": "20",
+        "name": "OLD HORTICULTURE"
+    },
+    {
+        "id": "27",
+        "name": "OLDS HALL"
+    },
+    {
+        "id": "2",
+        "name": "OLIN HEALTH CENTER"
+    },
+    {
+        "id": "243",
+        "name": "OLIN HEALTH RAMP (ER)"
+    },
+    {
+        "id": "233",
+        "name": "OUTSIDE AREAS"
+    },
+    {
+        "id": "138",
+        "name": "OWEN GRADUATE HALL"
+    },
+    {
+        "id": "54",
+        "name": "OYER SPEECH AND HEARING"
+    },
+    {
+        "id": "87",
+        "name": "PACKAGING"
+    },
+    {
+        "id": "178",
+        "name": "PATHOLOGICAL INCINERATOR"
+    },
+    {
+        "id": "112",
+        "name": "PAVILION AGRICULTURE LIVESTOCK ED"
+    },
+    {
+        "id": "261",
+        "name": "PAVILION LOT #1 (ER)"
+    },
+    {
+        "id": "262",
+        "name": "PAVILION LOT #2 (ER)"
+    },
+    {
+        "id": "385",
+        "name": "PEOPLES PARK"
+    },
+    {
+        "id": "109",
+        "name": "PHYSICAL PLANT STORAGE - 209"
+    },
+    {
+        "id": "110",
+        "name": "PHYSICAL PLANT STORAGE - 210"
+    },
+    {
+        "id": "259",
+        "name": "PLANETARIUM LOT (ER)"
+    },
+    {
+        "id": "51",
+        "name": "PLANT AND SOIL SCIENCE"
+    },
+    {
+        "id": "239",
+        "name": "PLANT AND SOIL SCIENCE GARDENS (ER)"
+    },
+    {
+        "id": "88",
+        "name": "PLANT BIOLOGY LABORATORY"
+    },
+    {
+        "id": "207",
+        "name": "PLANT RESEARCH"
+    },
+    {
+        "id": "58",
+        "name": "PLANT SCIENCE GREENHOUSE EAST RANGE"
+    },
+    {
+        "id": "56",
+        "name": "PLANT SCIENCE GREENHOUSE WEST RANGE"
+    },
+    {
+        "id": "168",
+        "name": "POULTRY RESEARCH COMPLEX"
+    },
+    {
+        "id": "214",
+        "name": "PSYCHOLOGY (ER)"
+    },
+    {
+        "id": "21",
+        "name": "PSYCHOLOGY BUILDING"
+    },
+    {
+        "id": "52",
+        "name": "PUBLIC SAFETY"
+    },
+    {
+        "id": "158",
+        "name": "PUREBRED BEEF"
+    },
+    {
+        "id": "114",
+        "name": "RADIOLOGY BUILDING"
+    },
+    {
+        "id": "241",
+        "name": "RADIOLOGY PARKING LOT (ER)"
+    },
+    {
+        "id": "328",
+        "name": "RALPH YOUNG FIELD"
+    },
+    {
+        "id": "130",
+        "name": "RATHER HALL"
+    },
+    {
+        "id": "95",
+        "name": "REGIONAL CHILLED WATER PLANT NO 1"
+    },
+    {
+        "id": "377",
+        "name": "RHS INFORMATION SERVICES"
+    },
+    {
+        "id": "176",
+        "name": "RIVER INTAKE STATION"
+    },
+    {
+        "id": "30",
+        "name": "RIVER WATER RESEARCH CENTER"
+    },
+    {
+        "id": "395",
+        "name": "SERVICE ROAD FIELDS"
+    },
+    {
+        "id": "244",
+        "name": "SHAW BUS STOP (ER)"
+    },
+    {
+        "id": "136",
+        "name": "SHAW HALL"
+    },
+    {
+        "id": "225",
+        "name": "SHAW HALL (ER)"
+    },
+    {
+        "id": "37",
+        "name": "SHAW LANE POWER PLANT"
+    },
+    {
+        "id": "157",
+        "name": "SHEEP BARN"
+    },
+    {
+        "id": "163",
+        "name": "SHEEP RES-BARN"
+    },
+    {
+        "id": "179",
+        "name": "SHOOTING RANGE - PAVILION"
+    },
+    {
+        "id": "122",
+        "name": "SNYDER AND PHILLIPS HALL"
+    },
+    {
+        "id": "152",
+        "name": "SOIL SCIENCE - LAB"
+    },
+    {
+        "id": "383",
+        "name": "SOUTH CHERRY LANE FIELD"
+    },
+    {
+        "id": "186",
+        "name": "SPARROW - OKEMOS"
+    },
+    {
+        "id": "191",
+        "name": "SPARROW HEALTH SCIENCE PAVILION"
+    },
+    {
+        "id": "193",
+        "name": "SPARROW HOSPITAL"
+    },
+    {
+        "id": "190",
+        "name": "SPARROW PROFESSIONAL BUILDING"
+    },
+    {
+        "id": "197",
+        "name": "SPART VILL- LAUNDRY & SHOP 1521"
+    },
+    {
+        "id": "117",
+        "name": "SPARTAN CHILD DEVELOPMENT CENTER"
+    },
+    {
+        "id": "34",
+        "name": "SPARTAN STADIUM"
+    },
+    {
+        "id": "253",
+        "name": "SPARTAN STADIUM ENTRANCE/RALPH YOUNG (ER)"
+    },
+    {
+        "id": "256",
+        "name": "SPARTAN STADIUM S/E CORNER FARM LANE STADIUM LOT (ER)"
+    },
+    {
+        "id": "255",
+        "name": "SPARTAN STADIUM S/W CORNER FARM LANE STADIUM LOT (ER)"
+    },
+    {
+        "id": "254",
+        "name": "SPARTAN STADIUM S/W CORNER/RALPH YOUNG TRACK (ER)"
+    },
+    {
+        "id": "203",
+        "name": "SPARTAN VILLAGE APARTMENT COMPLEX"
+    },
+    {
+        "id": "98",
+        "name": "SPARTAN VILLAGE COMMUNITY CENTER"
+    },
+    {
+        "id": "370",
+        "name": "SPARTAN VILLAGE COMMUNITY CENTER - POST OFFICE"
+    },
+    {
+        "id": "209",
+        "name": "SPARTAN VILLAGE OFFICE"
+    },
+    {
+        "id": "265",
+        "name": "SPARTAN VILLAGE RECYCLING CENTER - NORTH"
+    },
+    {
+        "id": "266",
+        "name": "SPARTAN VILLAGE RECYCLING CENTER - SOUTH"
+    },
+    {
+        "id": "65",
+        "name": "STUDENT SERVICES"
+    },
+    {
+        "id": "162",
+        "name": "SWINE EVALUATION CTR"
+    },
+    {
+        "id": "154",
+        "name": "SWINE RESEARCH - BARN/ELEVATOR STGE"
+    },
+    {
+        "id": "311",
+        "name": "SWINE RESEARCH STORAGE BUILDING"
+    },
+    {
+        "id": "175",
+        "name": "SWINE TEACHING & RESEARCH"
+    },
+    {
+        "id": "38",
+        "name": "T.B. SIMON POWER PLANT"
+    },
+    {
+        "id": "108",
+        "name": "TENNIS FACILITY"
+    },
+    {
+        "id": "381",
+        "name": "TRANSPORTATION SVCS FUEL STATION"
+    },
+    {
+        "id": "167",
+        "name": "TREE RESEARCH COMPLEX"
+    },
+    {
+        "id": "232",
+        "name": "TREE RESEARCH SHOP/OFFICE"
+    },
+    {
+        "id": "234",
+        "name": "UFMC-MAIN SHOP BLDG (UNIVERSITY FARMS)"
+    },
+    {
+        "id": "160",
+        "name": "UFSC - MAINTENANCE BLDG"
+    },
+    {
+        "id": "5",
+        "name": "UNION BUILDING"
+    },
+    {
+        "id": "247",
+        "name": "UNIVERSITY APARTMENTS WAREHOUSE"
+    },
+    {
+        "id": "182",
+        "name": "UNIVERSITY CLUB"
+    },
+    {
+        "id": "111",
+        "name": "UNIVERSITY RESEARCH CONTAINMENT"
+    },
+    {
+        "id": "202",
+        "name": "UNIVERSITY VILLAGE APARTMENT COMPLEX"
+    },
+    {
+        "id": "198",
+        "name": "UNIVERSITY VILLAGE COMMUNITY CENTER"
+    },
+    {
+        "id": "47",
+        "name": "URBAN PLANNING LANDSCAPE ARCH - IMC"
+    },
+    {
+        "id": "66",
+        "name": "USDA AVIAN DISEASE & ONCOLOGY LAB"
+    },
+    {
+        "id": "137",
+        "name": "VANHOOSEN HALL"
+    },
+    {
+        "id": "81",
+        "name": "VET MED CNTR"
+    },
+    {
+        "id": "376",
+        "name": "VET MED CNTR - LARGE ANIMAL"
+    },
+    {
+        "id": "375",
+        "name": "VET MED CNTR - SMALL ANIMAL"
+    },
+    {
+        "id": "83",
+        "name": "VET MED CNTR PEGASUS CRITICAL CARE"
+    },
+    {
+        "id": "82",
+        "name": "VET MED CNTR-MCPHAIL EQUINE PERFORM"
+    },
+    {
+        "id": "388",
+        "name": "VET MED FIELD"
+    },
+    {
+        "id": "156",
+        "name": "VET RESEARCH - LARGE ANIMAL"
+    },
+    {
+        "id": "161",
+        "name": "WATER QUALITY MNGMNT FAC. - GARAGE"
+    },
+    {
+        "id": "57",
+        "name": "WATER RESERVOIR"
+    },
+    {
+        "id": "43",
+        "name": "WELLS HALL"
+    },
+    {
+        "id": "226",
+        "name": "WELLS HALL NORTH (ER)"
+    },
+    {
+        "id": "301",
+        "name": "WELLS HALL RIVER (ER)"
+    },
+    {
+        "id": "236",
+        "name": "WELLS HALL SOUTH (ER)"
+    },
+    {
+        "id": "274",
+        "name": "WELLS HALL STARBUCKS (ER)"
+    },
+    {
+        "id": "194",
+        "name": "WESTSIDE PEDIATRICS"
+    },
+    {
+        "id": "235",
+        "name": "WHARTON CENTER (ER)"
+    },
+    {
+        "id": "50",
+        "name": "WHARTON CENTER FOR PERFORMING ARTS"
+    },
+    {
+        "id": "180",
+        "name": "WILDLIFE ECOLOGY"
+    },
+    {
+        "id": "371",
+        "name": "WILKSHIRE EARLY CHILDHOOD CNTR"
+    },
+    {
+        "id": "127",
+        "name": "WILLIAMS HALL"
+    },
+    {
+        "id": "6",
+        "name": "WILLS HOUSE"
+    },
+    {
+        "id": "140",
+        "name": "WILSON HALL"
+    },
+    {
+        "id": "270",
+        "name": "WKAR TRANSMITTER BLDG"
+    },
+    {
+        "id": "141",
+        "name": "WONDERS HALL"
+    },
+    {
+        "id": "126",
+        "name": "YAKELEY AND GILCHRIST HALL"
+    },
+    {
+        "id": "227",
+        "name": "YAKELEY-GILCHRIST HALL (ER)"
+    }
+]

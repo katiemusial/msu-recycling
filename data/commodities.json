@@ -1,0 +1,34 @@
+{
+  "plastic": [
+    "Cloudy 2 HDPE",
+    "Mixed Recycling (plastic, metal, paper, etc.)",
+    "Mixed Plastics (1 - 7)",
+    "Commingled Plastic-Metal"
+  ],
+  "paper": [
+    "Office Paper",
+    "Mixed Paper",
+    "Mixed Recycling (plastic, metal, paper, etc.)"
+  ],
+  "cardboard": [
+    "Boxboard/Paperboard/Box Cuttings",
+    "Corrugated Cardboard",
+    "Mixed Recycling (plastic, metal, paper, etc.)"
+  ],
+  "glass": [
+    "Clear, Brown or Green Glass"
+  ],
+  "metal": [
+    "Commingled Plastic-Metal",
+    "Mixed Recycling (plastic, metal, paper, etc.)",
+    "Household/Scrap Metal"
+  ],
+  "surplus": [
+    "Surplus Goods",
+    "Toner Cartridges"
+  ],
+  "trash": [
+    "Class 100 Refuse (Compactible)",
+    "Class 200 Refuse (Non-Compactible)"
+  ]
+}

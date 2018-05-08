@@ -1,0 +1,147 @@
+[
+    {
+        "id":"1",
+        "name": "water bottle",
+        "commodity": "plastic"
+    },
+    {
+        "id":"2",
+        "name": "plastic cup",
+        "commodity": "plastic"
+    },
+    {
+        "id":"3",
+        "name": "gatorade bottle",
+        "commodity": "plastic"
+    },
+    {
+        "id":"4",
+        "name": "yogurt cup",
+        "commodity": "plastic"
+    },
+    {
+        "id":"5",
+        "name":"all office paper",
+        "commodity":"paper"
+    },
+    {
+        "id":"6",
+        "name":"white paper",
+        "commodity":"paper"
+    },
+    {
+        "id":"7",
+        "name":"colored paper",
+        "commodity":"paper"
+    },
+    {
+        "id":"8",
+        "name":"newspaper (bags and strings removed)",
+        "commodity":"paper"
+    },
+    {
+        "id":"9",
+        "name":"magazine (all types)",
+        "commodity":"paper"
+    },
+    {
+        "id":"10",
+        "name":"catalog (all types)",
+        "commodity":"paper"
+    },
+    {
+        "id":"11",
+        "name":"phonebook (all types)",
+        "commodity":"paper"
+    },
+    {
+        "id":"12",
+        "name":"junk mail",
+        "commodity":"paper"
+    },
+    {
+        "id":"13",
+        "name":"paperboard",
+        "commodity":"paper"
+    },
+    {
+        "id":"14",
+        "name":"tissue box",
+        "commodity":"paper"
+    },
+    {
+        "id":"15",
+        "name":"heavy weight folder",
+        "commodity":"paper"
+    },
+    {
+        "id":"16",
+        "name":"toilet paper roll",
+        "commodity":"paper"
+    },
+    {
+        "id":"17",
+        "name":"paper towel roll",
+        "commodity":"paper"
+    },
+    {
+        "id":"18",
+        "name":"shredded paper",
+        "commodity":"paper"
+    },
+    {
+        "id":"19",
+        "name":"paper milk carton (empty)",
+        "commodity":"paper"
+    },
+    {
+        "id":"20",
+        "name":"paper juice carton (empty)",
+        "commodity":"paper"
+    },
+    {
+        "id":"21",
+        "name":"book (soft cover)",
+        "commodity":"paper"
+    },
+    {
+        "id":"22",
+        "name":"paper coffee cup (empty)",
+        "commodity":"paper"
+    },
+    {
+        "id":"23",
+        "name":"pizza box (clean)",
+        "commodity":"cardboard"
+    },
+    {
+        "id":"24",
+        "name":"corrugated cardboard",
+        "commodity":"cardboard"
+    },
+    {
+        "id":"25",
+        "name":"brown paper bag",
+        "commodity":"cardboard"
+    },
+    {
+        "id":"26",
+        "name":"boxboard",
+        "commodity":"paper"
+    },
+    {
+        "id":"27",
+        "name":"shoebox",
+        "commodity":"cardboard"
+    },
+    {
+        "id":"28",
+        "name":"gift box",
+        "commodity":"paper"
+    },
+    {
+        "id":"29",
+        "name":"cereal box",
+        "commodity":"paper"
+    }
+]

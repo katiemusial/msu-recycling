@@ -1,0 +1,74 @@
+[
+  {
+    "id":"1",
+    "title": "This Is A Rather Long Article Title That Keeps Going And Going",
+    "subTitle": "",
+    "urlTitle": "this-is-a-rather-long-article-title-that-keeps-going-and-going",
+    "author": "John Doe",
+    "datePosted": "2016-01-15T10:26:43.898Z",
+    "thumbnail": "http://lorempixel.com/600/600/animals/1",
+    "postContent": "<p class=\"whatevz sucka fartmachine\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum unde adipisci nam itaque excepturi. Maiores doloribus ad, dolorem debitis corporis natus ipsa! Sapiente, in, dolorum.</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque inventore consequuntur aut debitis repellat provident ducimus esse consectetur assumenda eaque, libero nobis aspernatur eius officiis iure tempora natus expedita recusandae.</p>\n<img src=\"http://lorempixel.com/640/480/animals/2\" alt=\"\">\n<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos delectus eligendi illum praesentium perferendis, aliquid dolor totam aperiam, nostrum sequi repudiandae officia earum veritatis minus cupiditate voluptate maiores nihil! Accusamus consectetur, minima dolorem ullam natus!</p>",
+    "META_keywords": "campus",
+    "status":"active"
+  },
+  {
+    "id":"2",
+    "title": "Concise Article Title",
+    "subTitle": "",
+    "urlTitle": "concise-article-title",
+    "author": "Jane Roe",
+    "datePosted": "2016-01-26T19:32:43.898Z",
+    "thumbnail": "http://lorempixel.com/600/600/animals/2",
+    "postContent": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum unde adipisci nam itaque excepturi. Maiores doloribus ad, dolorem debitis corporis natus ipsa! Sapiente, in, dolorum.</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque inventore consequuntur aut debitis repellat provident ducimus esse consectetur assumenda eaque, libero nobis aspernatur eius officiis iure tempora natus expedita recusandae.</p>\n<img src=\"http://lorempixel.com/640/480/animals/10\" alt=\"\">\n<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos delectus eligendi illum praesentium perferendis, aliquid dolor totam aperiam, nostrum sequi repudiandae officia earum veritatis minus cupiditate voluptate maiores nihil! Accusamus consectetur, minima dolorem ullam natus!</p>",
+    "META_keywords": "surplus,campus",
+    "status":"active"
+  },
+  {
+    "id":"3",
+    "title": "Holiday Light Recycling Collection",
+    "subTitle": "",
+    "urlTitle": "holiday-light-recycling-collection",
+    "author": "Rick Owens",
+    "datePosted": "2016-02-09T14:26:43.898Z",
+    "thumbnail": "http://lorempixel.com/600/600/animals/3",
+    "postContent": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam mollitia omnis veniam. Deserunt ratione aliquam laborum molestias earum vero nihil totam id labore autem quos eaque illo atque recusandae, itaque quibusdam facere vitae, similique quod? Eveniet et aspernatur maiores vero.</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex officia illum temporibus quidem sapiente eum magnam perferendis libero, perspiciatis eligendi dolores, quas atque non explicabo, quam maxime provident vero. Ad quasi magni nobis iure et.</p>\n<img src=\"http://lorempixel.com/640/480/animals/6/\" alt=\"\">\n<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea hic, perferendis voluptate magnam atque impedit id ipsum, consequatur sint quo. Laudantium accusantium in, ipsum facere totam. Eum, quia! Ipsam nam dignissimos odit facilis aut id quo sed adipisci, deleniti neque tenetur sunt quaerat possimus! Nisi!</p>",
+    "META_keywords": "community,public,lansing",
+    "status":"active"
+  },
+  {
+    "id":"4",
+    "title": "MSU Particpates In Recyclemania 2015",
+    "subTitle": "",
+    "urlTitle": "msu-particpates-in-recyclemania-2015",
+    "author": "Rick Owens",
+    "datePosted": "2016-02-09T16:26:43.898Z",
+    "thumbnail": "http://lorempixel.com/600/600/animals/4",
+    "postContent": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam mollitia omnis veniam. Deserunt ratione aliquam laborum molestias earum vero nihil totam id labore autem quos eaque illo atque recusandae, itaque quibusdam facere vitae, similique quod? Eveniet et aspernatur maiores vero.</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex officia illum temporibus quidem sapiente eum magnam perferendis libero, perspiciatis eligendi dolores, quas atque non explicabo, quam maxime provident vero. Ad quasi magni nobis iure et.</p>\n<img src=\"http://lorempixel.com/640/480/animals/4/\" alt=\"\">\n<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea hic, perferendis voluptate magnam atque impedit id ipsum, consequatur sint quo. Laudantium accusantium in, ipsum facere totam. Eum, quia! Ipsam nam dignissimos odit facilis aut id quo sed adipisci, deleniti neque tenetur sunt quaerat possimus! Nisi!</p>",
+    "META_keywords": "operations,campus,reports,outreach",
+    "status":"active"
+  },
+  {
+    "id":"5",
+    "title": "Lorem Ipsum Dolor Sit Amet, Consectetur",
+    "subTitle": "",
+    "urlTitle": "lorem-ipsum-dolor-sit-amet,-consectetur",
+    "author": "Rick Owens",
+    "datePosted": "2016-03-08T16:26:43.898Z",
+    "thumbnail": "http://lorempixel.com/600/600/animals/5",
+    "postContent": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam mollitia omnis veniam. Deserunt ratione aliquam laborum molestias earum vero nihil totam id labore autem quos eaque illo atque recusandae, itaque quibusdam facere vitae, similique quod? Eveniet et aspernatur maiores vero.</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex officia illum temporibus quidem sapiente eum magnam perferendis libero, perspiciatis eligendi dolores, quas atque non explicabo, quam maxime provident vero. Ad quasi magni nobis iure et.</p>\n<img src=\"http://lorempixel.com/640/480/sports/\" alt=\"\">\n<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea hic, perferendis voluptate magnam atque impedit id ipsum, consequatur sint quo. Laudantium accusantium in, ipsum facere totam. Eum, quia! Ipsam nam dignissimos odit facilis aut id quo sed adipisci, deleniti neque tenetur sunt quaerat possimus! Nisi!</p>",
+    "META_keywords": "campus,outreach",
+    "status":"active"
+  },
+  {
+    "id":"6",
+    "title": "I Changed This Title to Make it Different",
+    "subTitle": "",
+    "urlTitle": "i-changed-this-title-to-make-it-different",
+    "author": "Rick Owens",
+    "datePosted": "2016-03-21T16:26:43.898Z",
+    "thumbnail": "http://lorempixel.com/600/600/animals/6",
+    "postContent": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam mollitia omnis veniam. Deserunt ratione aliquam laborum molestias earum vero nihil totam id labore autem quos eaque illo atque recusandae, itaque quibusdam facere vitae, similique quod? Eveniet et aspernatur maiores vero.</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex officia illum temporibus quidem sapiente eum magnam perferendis libero, perspiciatis eligendi dolores, quas atque non explicabo, quam maxime provident vero. Ad quasi magni nobis iure et.</p>\n<img src=\"http://lorempixel.com/640/480/sports/\" alt=\"\">\n<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea hic, perferendis voluptate magnam atque impedit id ipsum, consequatur sint quo. Laudantium accusantium in, ipsum facere totam. Eum, quia! Ipsam nam dignissimos odit facilis aut id quo sed adipisci, deleniti neque tenetur sunt quaerat possimus! Nisi!</p>",
+    "META_keywords": "operations,outreach",
+    "status":"active"
+  }   
+]

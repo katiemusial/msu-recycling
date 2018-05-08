@@ -1,0 +1,28 @@
+<div class="container">
+    <h1 class="text-center">Recycling Locations</h1>
+    <div class="col-md-8 col-md-offset-1">
+        <form class="form-horizontal" name="guideSearchForm" ng-submit="queryGuide(guideSearch)" autocomplete="off">
+            <input autocomplete="false" name="hidden" type="text" style="display:none">
+            <div class="form-group">
+                <label for="guideSearchObject" class="col-md-4 control-label lead">Object</label>
+                <div class="col-md-8">
+                    <input type="text" id="search" class="form-control objects" ng-model="guideSearch.object" bs-options="object as object.name for object in objects | filter:{name:$viewValue}" ng-change="searchSanitize.checkObject(guideSearch.object)" placeholder="object, e.g: water bottle" bs-typeahead required autocomplete="off">
+                    <div class="object-search-alert"></div>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="guideSearchBuilding" class="col-md-4 control-label lead">Location</label>
+                <div class="col-md-8">
+                    <input type="text" class="form-control buildings" ng-model="guideSearch.building" bs-options="building as building.Building_Name for building in buildings | filter:{Building_Name:$viewValue}" ng-change="searchSanitize.checkBuilding(guideSearch.building)" placeholder="building, e.g: Wells Hall" bs-typeahead>
+                    <div class="building-search-alert"></div>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-md-4"></div>
+                <div class="col-md-8">
+                    <button type="submit" onclick="getData(callbackData)" class="form-control btn btn-success">Find a spot&nbsp;<i class="fa fa-arrow-right"></i></button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
